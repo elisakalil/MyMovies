@@ -7,4 +7,4 @@ MyMovies is a iOS mobile project developed to study TableViews programmatically,
 * Code in blocks
 * ViewCode
 * MVC Architecture
-<img src="https://user-images.githubusercontent.com/60624768/161756097-1b849074-72f3-4f0b-8284-1011bb9fe5ae.png" width=50% height=50%>
+<img src="https://user-images.githubusercontent.com/60624768/161756097-1b849074-72f3-4f0b-8284-1011bb9fe5ae.png" width=30% height=30%>
