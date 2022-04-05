@@ -73,6 +73,7 @@ final class MoviesViewController: UIViewController {
         navigationController?.navigationBar.prefersLargeTitles = true
         let textAttributes = [NSAttributedString.Key.foregroundColor: UIColor.white]
         navigationController?.navigationBar.largeTitleTextAttributes = textAttributes
+        navigationController?.navigationBar.tintColor = .black
         navigationItem.searchController = searchController
     }
 }
